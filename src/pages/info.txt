@@ -1,0 +1,1 @@
+This folder contains route based components like home, about, services etc.
